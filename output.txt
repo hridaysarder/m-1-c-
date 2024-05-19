@@ -1,1 +1,3 @@
-Vowel
+Minimum Number: 10
+Maximum Number: 20
+20 10
